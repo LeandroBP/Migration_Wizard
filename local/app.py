@@ -1,1 +1,0 @@
-/home/kubrik/Projetos_git/crud+flask/app.py
